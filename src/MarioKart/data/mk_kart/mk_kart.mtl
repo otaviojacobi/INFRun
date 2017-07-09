@@ -1,0 +1,53 @@
+# Blender MTL File: 'template.blend'
+# Material Count: 5
+
+newmtl E_face
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.778000 0.778000 0.778000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../../data/mk_kart/E_face.png
+
+newmtl E_main
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.778000 0.778000 0.778000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../../data/mk_kart/E_main.png
+
+newmtl kart_body
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.778000 0.778000 0.778000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../../data/mk_kart/kart_body.png
+
+newmtl kart_e
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.778000 0.778000 0.778000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd ../../data/mk_kart/kart_e.png
+map_d ../../data/mk_kart/kart_e.png
+
+newmtl kart_tire
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.778000 0.778000 0.778000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../../data/mk_kart/kart_tire.png
